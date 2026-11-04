@@ -21,3 +21,6 @@ npm run preview
 - Coordonnées de contact de la carte de visite
 
 Les visuels sont chargés depuis Unsplash. Les textes de présentation institutionnelle restent volontairement prudents : aucun chiffre d'affaires, historique, marque représentée ou certification non confirmé n'est revendiqué.
+
+
+Deployment is handled automatically through GitHub Actions and GitHub Pages.
